@@ -11,4 +11,4 @@ I am now looking for a role to put these skills into practice and develop even f
 - Data visualisation
 
 ## Projects
-- [Supernova Poliarimetry Project](link-here)
+- [Supernova Poliarimetry Project](cerinesadiki/Supernova-Polarimetry-Analysis)
