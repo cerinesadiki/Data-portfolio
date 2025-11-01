@@ -4,7 +4,7 @@ During my degree, I developed strong coding skills, mainly using **Python and Ex
 Since my degree, I have completed the **CodeFirstGirls Data and SQL** course in order to develop my technical skills further.
 I am now looking for a role to put these skills into practice and develop even further.
 
-## Tecjnical Skills
+## Technical Skills
 - Python (Pandas, Matplotlib, NumPy)
 - SQL
 - Excel
