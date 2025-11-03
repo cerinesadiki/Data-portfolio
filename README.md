@@ -12,3 +12,4 @@ I am now looking for a role to put these skills into practice and develop even f
 
 ## Projects
 - [Supernova Polarimetry Project](https://github.com/cerinesadiki/Supernova-Polarimetry-Analysis)
+- [Solar Limb Darkening Project](https://github.com/cerinesadiki/Solar-Limb-Darkening-Project)
